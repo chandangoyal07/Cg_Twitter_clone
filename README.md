@@ -1,1 +1,1 @@
-# Cg_Twitter_clone
+# django
